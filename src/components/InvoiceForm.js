@@ -129,7 +129,7 @@ function InvoiceForm() {
 
             <Row>
               <Col>
-                <Form.Label className="fw-bold">Bill To</Form.Label>
+                <Form.Label className="fw-bold">Bill</Form.Label>
                 <Form.Control
                   className="my-2"
                   value={billTo}
